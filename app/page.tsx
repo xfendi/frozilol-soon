@@ -3,10 +3,6 @@ import React from "react";
 
 import Header from "@/components/landing/Header";
 
-export const metadata: Metadata = {
-  title: "frozi.lol | Home",
-};
-
 const HomePage = () => {
   return (
     <div className="relative w-screen h-screen">
