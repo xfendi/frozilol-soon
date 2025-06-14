@@ -1,7 +1,6 @@
 import React from "react";
 
 import Header from "@/components/landing/Header";
-
 const HomePage = () => {
   return (
     <div className="relative w-screen h-screen">
